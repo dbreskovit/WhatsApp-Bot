@@ -25,12 +25,6 @@
 
 <br />
 
-## 💈 Requirement
-
-- <img src=".github/resources/icons/nodejs.svg" width="15"> | [Node.js](https://nodejs.org/en/download/)
-- <img src=".github/resources/icons/npm.svg" width="15"> | [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
-
-
 ## 🧪 Technologies
 
 - <img src=".github/resources/icons/js.svg" width="15"> | [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
@@ -40,6 +34,11 @@
 <h3 align="center">
   <img src=".github/preview.png" width="100%">
 </h3>
+
+## 💈 Requirement
+
+- <img src=".github/resources/icons/nodejs.svg" width="15"> | [Node.js](https://nodejs.org/en/download/)
+- <img src=".github/resources/icons/npm.svg" width="15"> | [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 ## 🚀 Getting started
 

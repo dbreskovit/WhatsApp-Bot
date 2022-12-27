@@ -27,15 +27,15 @@
 
 ## 💈 Requirement
 
-- <img src=".github/resources/icons/nodejs.svg" width="10"> | [Node.js](https://nodejs.org/en/download/)
-- <img src=".github/resources/icons/npm.svg" width="10"> | [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+- <img src=".github/resources/icons/nodejs.svg" width="15"> | [Node.js](https://nodejs.org/en/download/)
+- <img src=".github/resources/icons/npm.svg" width="15"> | [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 
 ## 🧪 Technologies
 
-- <img src=".github/resources/icons/js.svg" width="10"> | [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- <img src=".github/resources/icons/whatsapp.svg" width="10"> | [WhatsApp-Web.js](https://wwebjs.dev/guide/)
-- <img src=".github/resources/icons/terminal.svg" width="10"> | [QRCode-Terminal](https://www.npmjs.com/package/qrcode-terminal)
+- <img src=".github/resources/icons/js.svg" width="15"> | [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- <img src=".github/resources/icons/whatsapp.svg" width="15"> | [WhatsApp-Web.js](https://wwebjs.dev/guide/)
+- <img src=".github/resources/icons/terminal.svg" width="15"> | [QRCode-Terminal](https://www.npmjs.com/package/qrcode-terminal)
 
 <h3 align="center">
   <img src=".github/preview.png" width="100%">
